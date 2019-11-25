@@ -1,0 +1,31 @@
+body {
+    background-color: #e3ce9f;
+}
+h1 {
+    color: #c72833;
+}
+
+.bgimg-1 {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+div.fixed-bottom {
+    height: 50px;
+    background-color: #34383a;
+    color: #e3ce9f;
+    font-weight: bold;
+    text-align: center;
+}
+
+div.jumbotron{
+    background-color: #226f54;
+}
+
+label {
+    font-weight: bold;
+    color: #e3ce9f;
+}
